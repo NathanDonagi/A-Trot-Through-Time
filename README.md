@@ -1,2 +1,1 @@
-A JS web game I made with friends, all code is mine however. The game runs on a standard node.js file server and is renderd on the html canvas. The entire game engine and logic was written by me. 
-
+A JS web game I made with friends, all code is mine however. The game runs on a standard node.js file server and is renderd on the html canvas. The entire game engine and logic was written by me. This game was mostly a challenge in system building and design. No individuel part of it was diffcult to make, however the combination of all the parts, and getting the different systems to run at once in real time was a challenge. 
